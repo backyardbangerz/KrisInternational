@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "https://demo.gethugothemes.com/biztrox/site/"
+baseURL = "https://resonant-melomakarona-072583/netlify.com/biztrox/site/"
 title = "Biztrox"
 theme = "biztrox-hugo"
 # post pagination
