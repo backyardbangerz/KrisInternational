@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "https://resonant-melomakarona-072583.netlify.app/biztrox/site/"
+baseURL = "https://resonant-melomakarona-072583.netlify.app"
 title = "Biztrox"
 theme = "biztrox-hugo"
 # post pagination
